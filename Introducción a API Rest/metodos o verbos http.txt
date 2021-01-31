@@ -1,0 +1,10 @@
+Son los que van a identificar qué tipo de petición está
+haciendo el cliente hacia el servidor.
+- GET: obtener información, envíar el recurso.
+- POST: envíar información desde el cliente hacía el servidor.
+- PUT: actualizar un recurso.
+- DELETE: borrar un recurso.
+- PATCH: actualizar parcialmente (un partecita) un recurso.
+- HEADER: consultar la existencia de un recurso.
+- OPTIONS: lo utilizan los navegadores de forma nativa, sirve para validar peticiones de un subdominio A hacia un subdominio B. Sirve para proteger los dominios, para que no se roben la información.
+Los de arriba son los métodos estándar

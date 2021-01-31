@@ -1,0 +1,2 @@
+Los recursos NO son autodescriptivos.
+Debes tener una propiedad dentro del recurso para identificar el siguiente elemento, o el anterior o él mismo.

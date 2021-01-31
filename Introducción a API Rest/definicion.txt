@@ -1,0 +1,6 @@
+API: Conjunto de subrutinas, metodos, funciones o procesos que te ofrece otro software para que puedas interactuar con él, o el mismo software puede exponer su API para interactuar consigo mismo.
+ej: jdk de java; este tiene metodos que me permiten realizar ciertas funcionalidades especificas al mismo lenguaje.
+En resumen:
+Interfaz de programación de aplicaciones que nos permite interactuar con un software.
+
+REST: estas api rest son las que nos van a permitir crear apliaciones webs, moviles que se conecten via cliente/servidor.

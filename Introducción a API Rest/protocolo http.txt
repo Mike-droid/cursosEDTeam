@@ -1,0 +1,6 @@
+PROTOCOLO: Serie de pasos que debes seguir para cumplir un objetivo especifico.
+
+REST se basa en el protocolo HTTP para poder exponer su arquitectura.
+
+HTTP nos permite exponer un estandar para que todos hablemos el mismo idioma y sigamos las mismas reglas.
+Se basa en una comunicación cliente/servidor; es decir, el cliente realiza una petición (request) y el servidor brinda una respuesta (response).

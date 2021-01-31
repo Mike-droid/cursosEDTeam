@@ -1,0 +1,5 @@
+100 a 199: Informativos
+200 a 299: Correcto
+300 a 399: Redirección - ¡Sirve para SEO!
+400 a 499: Error del cliente
+500 a 599: Error de servidor

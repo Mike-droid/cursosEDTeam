@@ -1,0 +1,3 @@
+Son cadenas de caracteres que se generan al momento de hacer login, así cada petición tendrá la cookie para saber quién está haciendo las peticiones.
+Las cookies se usan en navegadores.
+Los tokens se usan más en servidores.

@@ -1,0 +1,6 @@
+text/plain
+text/html
+text/xml
+application/json <3
+image/jpeg
+image/png

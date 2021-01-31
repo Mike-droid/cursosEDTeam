@@ -1,0 +1,9 @@
+REST = Representational State Transfer
+La web se basa en la arquitectura REST y esta se basa en el protocolo HTTP.
+Propiedades:
+TODO en la web es UN RECURSO y debe:
+- Tener un identificador único (URI).
+- Estar representado por un formato (XML, JSON, JPEG, etc).
+- Poderse representar con diferentes formatos.
+
+Las comunicaciones NO tienen estado.

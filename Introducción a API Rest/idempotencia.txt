@@ -1,0 +1,3 @@
+Es la caracteristica de que aunque se realice una acción muchas veces, la respuesta va a ser la misma siempre.
+Get, Put y Delete son idempotentes o seguros.
+Post NO es idempotente o seguro.

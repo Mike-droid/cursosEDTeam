@@ -1,0 +1,5 @@
+URI se puede representar con URL o URN (casi nadie usa URN, casi todo es con URL).
+Esto NO es correcto: https://ed.team/cursos?nombre=conceptos+de+api
+Esto sirve para FILTRAR, pero en este caso estamos identificando.
+Esto SÍ es correcto:https://ed.team/cursos/conceptos-de-api
+Es correcto para IDENTIFICAR un recurso y exponerlos en la web.
